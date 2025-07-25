@@ -11,7 +11,7 @@ Analyzed customer behavior from a telecom company to predict churn.
 - Data cleaning and EDA
 - Feature encoding and scaling
 - Model training (Logistic Regression, Random Forest)
-- Accuracy and ROC-AUC evaluation
+- Accuracy evaluation
 
 ## 📊 Results
 Achieved 85% accuracy in predicting churn.
